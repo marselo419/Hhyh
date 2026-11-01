@@ -1,0 +1,19 @@
+{
+  "geode": "v5.11.2",
+  "gd": {
+    "android": "*"
+  },
+  "id": "marcelo.clickfix-gd",
+  "name": "ClickFix GD",
+  "version": "v1.0.0",
+  "developer": "ClickFix GD",
+  "description": "Buffers a very slightly early ground-jump input. Experimental Android build.",
+  "settings": {
+    "enabled": {
+      "name": "Activar ClickFix",
+      "description": "Guarda un salto ligeramente anticipado durante un instante.",
+      "type": "bool",
+      "default": true
+    }
+  }
+}
